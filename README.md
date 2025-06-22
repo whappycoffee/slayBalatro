@@ -14,7 +14,8 @@ A Python application that provides real-time advice for the Balatro card game by
 
 - Python 3.8 or higher
 - Balatro game installed
-- OpenAI API key
+- ollama installed 
+- local LLM deployed
 
 ## Installation
 

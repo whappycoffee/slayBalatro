@@ -1,0 +1,7 @@
+opencv-python==4.8.1.78
+Pillow==10.0.0
+pywin32==306
+python-dotenv==1.0.0
+PySide6==6.9.1
+numpy==1.24.3
+ollama

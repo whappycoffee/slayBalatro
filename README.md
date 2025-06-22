@@ -1,5 +1,7 @@
 # Balatro Game Advisor
 
+This project is for educational purpose and personal entertainment only, free for all to anyone that loves video game to use.
+
 A Python application that provides real-time advice for the Balatro card game by analyzing the game state and providing strategic recommendations.
 
 ## Features
